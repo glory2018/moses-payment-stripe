@@ -17,7 +17,7 @@
         <swagger2.version>2.9.2</swagger2.version>
         <mysql.version>5.1.45</mysql.version>
         <druid.version>1.1.18</druid.version>
-        <httpclient.version>4.3.1</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <lombok.version>1.18.8</lombok.version>
         <reds.version>3.2.0</reds.version>
         <fastjson.version>1.2.67</fastjson.version>
