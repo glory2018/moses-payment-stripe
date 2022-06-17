@@ -20,7 +20,7 @@
         <httpclient.version>4.3.1</httpclient.version>
         <lombok.version>1.18.8</lombok.version>
         <reds.version>3.2.0</reds.version>
-        <fastjson.version>1.2.67</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <beanutils.version>1.9.3</beanutils.version>
         <lang3.version>3.9</lang3.version>
         <stripe-java.version>19.1.0</stripe-java.version>
